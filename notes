@@ -1,0 +1,8 @@
+* Go in discord developer portal and make a new bot and in bot section a token will be available MTExMTY3NDYxODExNDIyNDE0OA.GmQfbv.bSM_mjflAP5tyHBU8JGIULWZo_5ek43Pn_fiQ8
+* in 0Auth2 -> gives authorization to the bot =>
+scope= bot
+BOT PERMISSIONS = 
+    test permission=send messages, manage messages, embed links, attach files, read memory history, mention everyone, use external emoji, use external stickers, add reactions    
+    general permission= read messages/view channels
+* https://discordapp.com/oauth2/authorize?&client_id=[CLIENTID]&scope=bot  just replace it with your client_id
+* After authorizating the bot will join the server
